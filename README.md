@@ -1,10 +1,17 @@
 # funddata-assessment
 
+09/11/2022
+Added the windows git ignore details to ignore unnecessary files to see in github.
+
+Also working with Bias, cognitive bias, statistical bias, etc.
+
+
 27/10/2022
 Continuing with randomness.
 Looking at numpy and various distributions.
 Used matplotlib to plot the distributions.
 Completed Exercise 3 in notbook.
+
 
 20/10/2022
 Worked through exercies on Randomness.
