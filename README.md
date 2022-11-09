@@ -10,17 +10,17 @@ Also working with Bias, cognitive bias, statistical bias, etc.
 Continuing with randomness.
 Looking at numpy and various distributions.
 Used matplotlib to plot the distributions.
-Completed Exercise 3 in notbook.
+Completed Exercise 3 in notebook.
 
 
 20/10/2022
 Worked through exercies on Randomness.
 I was familiar with probability and some coin flip examples so this was nice to learn new stuff with a familiar backdrop.
-Exercises 1 and 2 completed in notbook.
+Exercises 1 and 2 completed in notebook.
 
 
 13/10/2022
-Tried the code from the class.
+Tried the code from the class. Made minor changes to make it easier to read for myself.
 The class code was on Entropy. It investigates the entropy of a randomly generated strings (0s and 1s) as well as the entropy of Fire Alarms and Pincodes.
 
 Added an explanation (in my own words) as to why the log of zero is not defined.
