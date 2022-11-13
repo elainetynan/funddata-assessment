@@ -1,5 +1,8 @@
 # funddata-assessment
 
+13/11/2022
+Continuing with Bias.
+
 09/11/2022
 Added the windows git ignore details to ignore unnecessary files to see in github.
 
