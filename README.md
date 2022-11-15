@@ -1,5 +1,9 @@
 # funddata-assessment
 
+15/11/2022
+Completed notebook on Bias and 2 exercises included.
+Started noteboke for Normal distribution and did a some research.
+
 13/11/2022
 Continuing with Bias.
 
