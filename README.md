@@ -1,5 +1,9 @@
 # funddata-assessment
 
+01/12/2022
+I forgot to update this and push to git hub the end of last week
+Completed Outliers (Box Plots, LaTex, Best Fit, etc) videos, notes and Exercises.
+
 21/11/2022
 Completed videos and notebook on Outliers.
 
