@@ -1,5 +1,8 @@
 # funddata-assessment
 
+16/12/2022
+Completed the notebook, videos and exercise for Cleansing part 2
+
 08/12/2022
 Working on the Project on Normal Distribution.
 Did a little more research on Normal Distribution.
