@@ -1,5 +1,8 @@
 # funddata-assessment
 
+18/12/2022
+Exracted data from Kaggle .com. Data is a sample of normally distributed data.
+
 16/12/2022
 Completed the notebook, videos and exercise for Cleansing part 2
 
