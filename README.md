@@ -1,5 +1,9 @@
 # funddata-assessment
 
+22/12/2022
+Working on Normal Distribution notebook.
+Using the data from Kaggle I sorted the data based on profit and then add a column categorising each profit value into 1 of 10 bins. Then I calculated the count of values in each bin. Next I sorted the data on the bins and finally I did a bar chart of the data that showed the normal distribution of the data.
+
 18/12/2022
 Exracted data from Kaggle .com. Data is a sample of normally distributed data.
 
