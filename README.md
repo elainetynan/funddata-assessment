@@ -5,7 +5,9 @@
 ----------
 Added a new histogram with a bell curve line graph.
 Created table of contents.
-Started research and write-up on the Probability Distribution Function.
+Researching and writing-up on the Probability Distribution Function.
+
+Did some clean-up of practicals.
 
 
 26/12/2022
@@ -15,6 +17,8 @@ In Normal Distribution Notebook I created a random set of 10,000 normally distri
 Next I created a random set of 10,000 chisquare distributed values. I then did 4 different types of tests to verify that the data was not a Normal Distribution. As expected, all tests showed that the data was not normally distributed.
 
 Finally I carried out the same 4 tests on the data I had extracted from Kaggle. In this case 2 tests showed the data was normally distributed and the other 2 initially seemed to show that the data was not a normal distribution. On further inspection, with some research, I was able to conclude that the data was in fact a normal distribution.
+
+Did some clean-up of practicals.
 
 
 22/12/2022
