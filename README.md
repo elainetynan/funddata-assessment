@@ -1,5 +1,13 @@
 # funddata-assessment
 
+
+30/12/2022
+----------
+Added a new histogram with a bell curve line graph.
+Created table of contents.
+Started research and write-up on the Probability Distribution Function.
+
+
 26/12/2022
 ----------
 In Normal Distribution Notebook I created a random set of 10,000 normally distributed values. I then did 4 different types of tests to verify that the data was in fact a Normal Distribution. As expected, all tests showed that the data was normally distributed.
