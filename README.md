@@ -1,6 +1,15 @@
 # funddata-assessment
 
 
+31/12/2022
+----------
+Added information and graphs on how the mean and standard deviation affect the normal distribution curve.
+Put in tests for the empirical rules, Kurtosis and skewness of normal distribution for all 3 datasets.
+Started work on the Cumulative Distribution Function.
+
+
+
+
 30/12/2022
 ----------
 Added a new histogram with a bell curve line graph.
