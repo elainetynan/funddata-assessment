@@ -1,18 +1,23 @@
 # funddata-assessment
 
 
+02/01/2023
+----------
+In Normal Distribution Notebook, working on the Cumulative Distribution Function.
+Added information on the Probability Point Function (Inverse Distribution Function).
+
+
 31/12/2022
 ----------
-Added information and graphs on how the mean and standard deviation affect the normal distribution curve.
+In Normal Distribution Notebook, added information and graphs on how the mean and standard deviation affect the normal distribution curve.
 Put in tests for the empirical rules, Kurtosis and skewness of normal distribution for all 3 datasets.
 Started work on the Cumulative Distribution Function.
 
 
 
-
 30/12/2022
 ----------
-Added a new histogram with a bell curve line graph.
+In Normal Distribution Notebook, added a new histogram with a bell curve line graph.
 Created table of contents.
 Researching and writing-up on the Probability Distribution Function.
 
