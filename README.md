@@ -1,6 +1,12 @@
 # funddata-assessment
 
 
+04/01/2023
+----------
+Added information on the binomial distribution.
+Did some cleanup and sorted bibliography and table of contents.
+
+
 02/01/2023
 ----------
 In Normal Distribution Notebook, working on the Cumulative Distribution Function.
