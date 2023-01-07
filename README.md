@@ -1,6 +1,13 @@
 # funddata-assessment
 
 
+07/01/2023
+----------
+Final commit.
+Included information about the Central Limit Theorem, wriote a short conclusion and did some tidy up.
+I have certainly learned a lot about normal distribution and how comples it can get.
+
+
 04/01/2023
 ----------
 Added information on the binomial distribution.
